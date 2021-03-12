@@ -9,11 +9,12 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&theme=radical)](https://github.com/lolek578)
 
 ## 🧰 Technologies and tools
-  * Python    * SQL map
-  * Java      * BurpSuite
-  * C/C++     * hashcat
+  * Python  
+  * Java      
+  * C/C++    
   * SQL
   * HTML/CSS
+
 
 <h1 align="center">Type safe, party hard</h1> 
 <!---
