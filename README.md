@@ -2,7 +2,7 @@
 - 👀 I’m interested in it sec, specially red team.
 - 🌱 I’m currently learning programming, networking, pentesting.
 
-[![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical)](https://github.com/lolek578)
+[![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical)](https://github.com/lolek578)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&theme=radical)](https://github.com/lolek578)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&theme=radical)](https://github.com/lolek578)
 
