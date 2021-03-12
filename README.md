@@ -18,6 +18,7 @@
   * C/C++    
   * SQL
   * HTML/CSS
+  * Social engineering
 ##
 
 # <p align="center">Type safe, party hard</p>
