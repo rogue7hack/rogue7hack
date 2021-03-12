@@ -9,7 +9,7 @@
 
 
 ## 🏫 Universtity repo
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolek578&repo=Kielce_University_Of_Technology&theme=radical)](https://github.com/lolek578/Kielce_University_Of_Technology)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolek578&include_all_commits=1&repo=Kielce_University_Of_Technology&theme=radical)](https://github.com/lolek578/Kielce_University_Of_Technology)
 
 
 
