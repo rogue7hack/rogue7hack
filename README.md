@@ -8,7 +8,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&hide=cmake,makefile&theme=radical&layout=compact)](https://github.com/lolek578)
 
 
-## 🏫 Universtity repo
+## 🏫 Universtity repo (Java, C/C++)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolek578&repo=Kielce_University_Of_Technology&theme=radical&)](https://github.com/lolek578/Kielce_University_Of_Technology)
 
 
