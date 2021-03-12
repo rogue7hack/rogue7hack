@@ -7,6 +7,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&theme=radical)](https://github.com/lolek578)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolek578&repo=Kielce_University_Of_Technology&theme=radical)](https://github.com/lolek578/Kielce_University_Of_Technology)
+
+
+<h2 align="center">Type safe, party hard</h2>  
 <!---
 lolek578/lolek578 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
