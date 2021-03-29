@@ -10,7 +10,8 @@
 
 ## 🏫 Universtity
 Realized subjects(PL) https://wzimk.tu.kielce.pl/pliki_rozne/programy/ID/Plan_studiow_ID_19-st.pdf
-University repos I called kielce-<language>
+<br>
+University repos I called kielce-'language'
 
 ## 🧰 Technologies and tools
   * Python  
