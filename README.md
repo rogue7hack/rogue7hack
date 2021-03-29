@@ -2,6 +2,12 @@
 - 👀 I’m interested in it sec, specially red team.
 - 🌱 I’m currently learning programming, networking, pentesting.
 
+```json
+Here goes your json object definition
+```
+
+
+
 ## 📊 My stats
 [![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical)](https://github.com/lolek578)
 
