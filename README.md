@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programming, networking, pentesting.
 
 ```json
-Here goes your json object definition
+{ "some": "json" }
 ```
 
 
