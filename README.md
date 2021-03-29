@@ -11,7 +11,7 @@
 ## 🏫 Universtity repos (Java, C/C++)
 Realized subjects(PL) https://wzimk.tu.kielce.pl/pliki_rozne/programy/ID/Plan_studiow_ID_19-st.pdf
 
-[![Readme Card]kielce2(https://github-readme-stats.vercel.app/api/pin/?username=lolek578&repo=kielce-java&theme=radical&show_owner=true)]Kielce 1(https://github.com/lolek578/kielce-java)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=lolek578&repo=kielce-java&theme=radical&show_owner=true)]Kielce 1(https://github.com/lolek578/kielce-java)
 
 ## 🧰 Technologies and tools
   * Python  
