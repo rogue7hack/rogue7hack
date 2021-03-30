@@ -18,8 +18,6 @@ const info = {
 ## 📊 My stats
 [![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical)](https://github.com/lolek578)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&hide=c,cmake,makefile&theme=radical&layout=compact&exclude_repo=kielce-java)](https://github.com/lolek578)
-
 
 ## 🏫 Universtity
 Realized subjects(PL) https://wzimk.tu.kielce.pl/pliki_rozne/programy/ID/Plan_studiow_ID_19-st.pdf
