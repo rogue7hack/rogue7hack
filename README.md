@@ -2,7 +2,7 @@
 - 👀 I’m interested in it sec, specially red team.
 - 🌱 I’m currently learning programming, networking, pentesting.
 
-```python
+```java
 const info = {
     skills: {
         languages: [Python, Java, a little C/C++],
