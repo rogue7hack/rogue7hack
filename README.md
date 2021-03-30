@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @lolek578
 - 👀 I’m interested in it sec, specially red team.
-- 🌱 I’m currently learning programming, networking, pentesting.
 
 ```java
 const info = {
