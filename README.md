@@ -19,7 +19,7 @@ const info = {
 ## 📊 My stats
 [![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical)](https://github.com/lolek578)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&hide=cmake,makefile&theme=radical&layout=compact&hide=c%2B%2B)](https://github.com/lolek578)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&hide=c,cmake,makefile&theme=radical&layout=compact&)](https://github.com/lolek578)
 
 
 ## 🏫 Universtity
