@@ -2,7 +2,7 @@
 - 👀 I’m interested in it sec, specially red team.
 - 🌱 I’m currently learning programming, networking, pentesting.
 
-```
+
 const info = {
     skills: {
         languages: [Python, Java, a little C/C++],
@@ -12,12 +12,12 @@ const info = {
     },
     actuallyLearning: ["pentesting", "programming"],
 };
-```
+
 
 
 
 ## 📊 My stats
-[![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical&hide=c)](https://github.com/lolek578)
+[![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical&hide=C)](https://github.com/lolek578)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lolek578&hide=cmake,makefile&theme=radical&layout=compact)](https://github.com/lolek578)
 
