@@ -3,7 +3,8 @@
 - 🌱 I’m currently learning programming, networking, pentesting.
 
 ```json
-{ "some": "json" }
+{ "some": "json",
+json: [1, 2,]}
 ```
 
 
