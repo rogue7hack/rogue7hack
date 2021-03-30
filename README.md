@@ -2,7 +2,7 @@
 - 👀 I’m interested in it sec, specially red team.
 - 🌱 I’m currently learning programming, networking, pentesting.
 
-```yaml
+```python
 const info = {
     skills: {
         languages: [Python, Java, a little C/C++],
@@ -27,14 +27,6 @@ Realized subjects(PL) https://wzimk.tu.kielce.pl/pliki_rozne/programy/ID/Plan_st
 <br>
 University repos I called kielce-'language'
 
-## 🧰 Technologies and tools
-  * Python  
-  * Java      
-  * C/C++    
-  * SQL
-  * HTML/CSS
-  * Social engineering
-##
 
 # <p align="center">Type safe, party hard</p>
 <!---
