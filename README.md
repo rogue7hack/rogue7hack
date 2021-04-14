@@ -23,7 +23,7 @@ const info = {
 ## 🏫 Universtity
 Realized subjects(PL) https://wzimk.tu.kielce.pl/pliki_rozne/programy/ID/Plan_studiow_ID_19-st.pdf
 <br>
-University repos I called kielce-'language'
+University repos I called kielce-'subject'
 
 
 # <p align="center">Type safe, party hard</p>
