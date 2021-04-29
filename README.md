@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lolek578
 - 👀 I’m interested in it sec, specially red team.
-- Proud son of @saldi [https://github.com/saldi]
+- In loving memory of my father @saldi [https://github.com/saldi]
 
 ```java
 const info = {
