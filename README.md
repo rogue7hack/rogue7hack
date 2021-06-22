@@ -5,12 +5,12 @@
 ```java
 const info = {
     skills: {
-        languages: [Python, Java, a little C/C++],
-        databases: [MySQL],
+        languages: [Python, Java],
+        databases: [MySQL, PL/SQL],
         socialEngineering: [OSINT, OPSEC, phishing],
         toolsAndFrameworks: [Nmap, sqlmap, Burp, WireShark]
     },
-    actuallyLearning: ["pentesting", "programming", "code audit"],
+    actuallyLearning: ["programming", "code audit"],
 };
 ```
 
