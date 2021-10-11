@@ -10,7 +10,7 @@ const info = {
         socialEngineering: [OSINT, OPSEC, phishing],
         toolsAndFrameworks: [Nmap, sqlmap, Burp, WireShark]
     },
-    actuallyLearning: ["programming", "code audit"],
+    actuallyLearning: ["programming", "code audit", "pentesting"],
 };
 ```
 
