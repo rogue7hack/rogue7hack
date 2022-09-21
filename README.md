@@ -6,7 +6,7 @@
 </div>
 </br>
 
-<h1 align="center">Hi 👋, I am Rogue, cybersecurity specialist</h1>
+<h1 align="center">👾 I'm rogue7, cybersecurity specialist</h1>
 <h3 align="center">Currently working in SOC/NOC</h3>
 
  <div id="thm" align="center">
