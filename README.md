@@ -1,7 +1,30 @@
-- 👋 Hi, I’m @lolek578
-- 👀 I’m interested in it sec and programming.
+
 - In loving memory of my father @saldi [https://github.com/saldi]
 
+<div id="header" align="center">
+  <img src="https://c.tenor.com/XXAXt1WWm3YAAAAi/pepe-hack-hack.gif" width="200"/>
+</div>
+</br>
+
+<h1 align="center">Hi 👋, I'm Rogue</h1>
+<h3 align="center">A cybersecurity specialist working in SOC/NOC</h3>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/patryklabuz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="patryklabuz" height="30" width="40" /></a>
+</p>
+ <div id="thm" align="center">
+    <a href="https://www.linkedin.com/in/patryklabuz/">
+         <img src="https://tryhackme-badges.s3.amazonaws.com/worldedit.png" alt="TryHackMe">
+    </a>
+</div>
+
+<div id="badge" align="center">
+    <a href="https://www.linkedin.com/in/patryklabuz/">
+        <img src="https://img.shields.io/badge/LinkedIn-green?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn Badge"/>
+    </a>
+</div>
+ 
+ 
 ```java
 const info = {
     skills: {
@@ -14,11 +37,7 @@ const info = {
 };
 ```
 
-
-
-## 📊 My stats
-[![Lolek578's GitHub stats](https://github-readme-stats.vercel.app/api?username=lolek578&show_icons=true&theme=radical)](https://github.com/lolek578)
-
+<hr>
 
 ## 🏫 Universtity
 Realized subjects(PL) https://wzimk.tu.kielce.pl/pliki_rozne/programy/ID/Plan_studiow_ID_19-st.pdf
